@@ -1,0 +1,193 @@
+{
+  "data": {
+    "1": {
+        "hr": "08:24",
+        "placa": "TONEL",
+        "tipo_vtr": "TONEL",
+        "COD_VALUE": "9560E",
+        "OMS": "3° RCG",
+        "TIPOcom": "OD",
+        "NOME": "CB DORNELLES"
+    },
+    "2": {
+        "hr": "08:28",
+        "placa": "IWV 3255",
+        "tipo_vtr": "SENTRA",
+        "COD_VALUE": "9B3A1",
+        "OMS": "CMDO 3° BDA C MEC",
+        "TIPOcom": "GC",
+        "NOME": "CB EMANUEL"
+    },
+    "3": {
+        "hr": "08:53",
+        "placa": "IWL6581",
+        "tipo_vtr": "VERSA",
+        "COD_VALUE": "97BBF",
+        "OMS": "CMDO 3° BDA C MEC",
+        "TIPOcom": "GC",
+        "NOME": "SD DUTRA"
+    },
+    "4": {
+        "hr": "08:53",
+        "placa": "3411233924",
+        "tipo_vtr": "ÔNIBUS",
+        "COD_VALUE": "178B8",
+        "OMS": "3° GAC AP",
+        "TIPOcom": "Os",
+        "NOME": "CB PADILHA"
+    },
+    "5": {
+        "hr": "08:59",
+        "placa": "3412230405",
+        "tipo_vtr": "5TON",
+        "COD_VALUE": "979CA",
+        "OMS": "6° BE CMB",
+        "TIPOcom": "OD",
+        "NOME": "CB BALDISSERA"
+    },
+    "6": {
+        "hr": "09:00",
+        "placa": "isz 2872",
+        "tipo_vtr": "CAV. MEC.",
+        "COD_VALUE": "4F86A",
+        "OMS": "8° BLOG",
+        "TIPOcom": "OD",
+        "NOME": "CB OURIQUES"
+    },
+    "7": {
+        "hr": "09:05",
+        "placa": "3470183669",
+        "tipo_vtr": "GOL",
+        "COD_VALUE": "17ED4",
+        "OMS": "8° BLOG",
+        "TIPOcom": "GC",
+        "NOME": "CB OTAVIO"
+    },
+    "8": {
+        "hr": "09:08",
+        "placa": "iwg 4d29",
+        "tipo_vtr": "SSYONGS",
+        "COD_VALUE": "49768",
+        "OMS": "13° CIA COM MEC",
+        "TIPOcom": "OD",
+        "NOME": "SD LANGEDOR"
+    },
+    "9": {
+        "hr": "09:17",
+        "placa": "ivu 2284",
+        "tipo_vtr": "SPACE FOX",
+        "COD_VALUE": "C4321",
+        "OMS": "CRO3",
+        "TIPOcom": "GC",
+        "NOME": "SD AIRES"
+    },
+    "10": {
+        "hr": "09:50",
+        "placa": "inr 7160",
+        "tipo_vtr": "COROLLA",
+        "COD_VALUE": "E12D9",
+        "OMS": "C POR / PA",
+        "TIPOcom": "GC",
+        "NOME": "CB RIGON"
+    },
+    "11": {
+        "hr": "09:50",
+        "placa": "galão",
+        "tipo_vtr": "GALÃO",
+        "COD_VALUE": "78E4A",
+        "OMS": "C POR / PA",
+        "TIPOcom": "GC",
+        "NOME": "CB RIGON"
+    },
+    "12": {
+        "hr": "10:06",
+        "placa": "isj 4276",
+        "tipo_vtr": "FOCUS",
+        "COD_VALUE": "9E29C",
+        "OMS": "B ADM AP / 3A RM",
+        "TIPOcom": "GC",
+        "NOME": "SGT FRANCELINO"
+    },
+    "13": {
+        "hr": "11:03",
+        "placa": "iwo 2176",
+        "tipo_vtr": "LOGAN",
+        "COD_VALUE": "B39612",
+        "OMS": "CRO3",
+        "TIPOcom": "GC",
+        "NOME": "CB LEMOS"
+    },
+    "14": {
+        "hr": "11:03",
+        "placa": "282251",
+        "tipo_vtr": "ESTRADA",
+        "COD_VALUE": "7C3A3",
+        "OMS": "B ADM AP / 3A RM",
+        "TIPOcom": "GC",
+        "NOME": "CB SOUZA"
+    },
+    "15": {
+        "hr": "11:23",
+        "placa": "jas 8h35",
+        "tipo_vtr": "C4",
+        "COD_VALUE": "CCEE9",
+        "OMS": "B ADM AP / 3A RM",
+        "TIPOcom": "GC",
+        "NOME": "SD GUSTAVO"
+    },
+    "16": {
+        "hr": "12:23",
+        "placa": "3413147374",
+        "tipo_vtr": "FRONTIER",
+        "COD_VALUE": "C1968",
+        "OMS": "CMDO 3° BDA C MEC",
+        "TIPOcom": "OD",
+        "NOME": "CB MOREIRA"
+    },
+    "17": {
+        "hr": "12:55",
+        "placa": "3414189710",
+        "tipo_vtr": "CAV MEC",
+        "COD_VALUE": "54759",
+        "OMS": "8° BLOG",
+        "TIPOcom": "OD",
+        "NOME": "CB DA CUNHA"
+    },
+    "18": {
+        "hr": "12:55",
+        "placa": "Jaj 9b30",
+        "tipo_vtr": "L200",
+        "COD_VALUE": "884EC",
+        "OMS": "B ADM AP / 3A RM",
+        "TIPOcom": "Os",
+        "NOME": "SGT ROMILDO"
+    },
+    "19": {
+        "hr": "12:55",
+        "placa": "3471520908",
+        "tipo_vtr": "CRUZE",
+        "COD_VALUE": "9039A",
+        "OMS": "B ADM AP / 3A RM",
+        "TIPOcom": "GC",
+        "NOME": "CB BLONDE"
+    },
+    "20": {
+        "hr": "13:00",
+        "placa": "3471",
+        "tipo_vtr": "VERSA",
+        "COD_VALUE": "E9539",
+        "OMS": "B ADM AP / 3A RM",
+        "TIPOcom": "GC",
+        "NOME": "CB AGUIRRES"
+    },
+    "21": {
+        "hr": "14:00",
+        "placa": "3414057039",
+        "tipo_vtr": "GUINDASTE",
+        "COD_VALUE": "42BA4",
+        "OMS": "3° BE CMB",
+        "TIPOcom": "OD",
+        "NOME": "SD E. CASTRO"
+    }
+  }
+}
